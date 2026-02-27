@@ -1,0 +1,35 @@
+{
+
+"name": "mta-discord-gonz-logger",
+
+"version": "1.0.0",
+
+"description": "MTA Gonz activity logger with Discord",
+
+"main": "index.js",
+
+"type": "commonjs",
+
+"scripts": {
+
+"start": "node index.js"
+
+},
+
+"engines": {
+
+"node": ">=18"
+
+},
+
+"dependencies": {
+
+"@discordjs/rest": "^2.2.0",
+
+"discord.js": "^14.14.1",
+
+"gamedig": "^4.1.0"
+
+}
+
+}
